@@ -1,0 +1,308 @@
+[
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf474a477debc822a3a45c5acb",
+    "title": "Музыка",
+    "backgroundColor": "#DC148C",
+    "id": "0JQ5DAqbMKFSi39LMRT0Cy"
+  },
+  {
+    "img": "https://t.scdn.co/images/ea364e99656e46a096ea1df50f581efe",
+    "title": "Для тебя",
+    "backgroundColor": "#1E3264",
+    "id": "0JQ5DAt0tbjZptfcdMSKl3"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf194fec0fdc197fb9e4fe8e64",
+    "title": "Новые релизы",
+    "backgroundColor": "#E13300",
+    "id": "0JQ5DAqbMKFOFhULVuQbjr"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf66d545e6a69d0bfe8bd1e825",
+    "title": "Поп",
+    "backgroundColor": "#477D95",
+    "id": "0JQ5DAqbMKFEC4WFtoNRpw"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf5f3752b3234e724f9cd6056f",
+    "title": "Хип-хоп",
+    "backgroundColor": "#477D95",
+    "id": "0JQ5DAqbMKFQ00XGBls6ym"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafe542e9b59b1d2ae04b46b91c",
+    "title": "Настроение",
+    "backgroundColor": "#E1118C",
+    "id": "0JQ5DAqbMKFzHmL4tf05da"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf26ada793217994216c79dad8",
+    "title": "Dance",
+    "backgroundColor": "#477D95",
+    "id": "0JQ5DAqbMKFHOzuVTgTizF"
+  },
+  {
+    "img": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg",
+    "title": "Чарты",
+    "backgroundColor": "#8D67AB",
+    "id": "0JQ5DAudkNjCgYMM0TZXDw"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf26dd3719e8824756914ae61f",
+    "title": "Для геймеров",
+    "backgroundColor": "#E8115B",
+    "id": "0JQ5DAqbMKFCfObibaOZbv"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafda4c849095796a9e5d2c4ddb",
+    "title": "Рок",
+    "backgroundColor": "#006450",
+    "id": "0JQ5DAqbMKFDXXwE9BDJAr"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafa1a252e3a815b65778d8c2aa",
+    "title": "Инди",
+    "backgroundColor": "#E91429",
+    "id": "0JQ5DAqbMKFCWjUTdzaG0e"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf6af6d83c78493644c9b0627b",
+    "title": "Тренировка",
+    "backgroundColor": "#777777",
+    "id": "0JQ5DAqbMKFAXlCG6QvYQ4"
+  },
+  {
+    "img": "https://t.scdn.co/images/d0fb2ab104dc4846bdc56d72b0b0d785.jpeg",
+    "title": "Рекомендации",
+    "backgroundColor": "#8D67AB",
+    "id": "0JQ5DAtOnAEpjOgUKwXyxj"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf8e97784ff1e12e67ae922715",
+    "title": "Набирает популярность",
+    "backgroundColor": "#B02897",
+    "id": "0JQ5DAqbMKFQIL0AXnG5AK"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf4b42030ee01cf793663dbb73",
+    "title": "K-Pop",
+    "backgroundColor": "#E61E32",
+    "id": "0JQ5DAqbMKFGvOw3O4nLAf"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf330ca3a3bfaf8b18407fb33e",
+    "title": "Релакс",
+    "backgroundColor": "#B06239",
+    "id": "0JQ5DAqbMKFFzDl7qN9Apr"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf1cef0cee1e498abb8e74955f",
+    "title": "Сон",
+    "backgroundColor": "#1E3264",
+    "id": "0JQ5DAqbMKFCuoRTxhYWow"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf0b0d0bfac454671832311615",
+    "title": "Вечеринка",
+    "backgroundColor": "#8D67AB",
+    "id": "0JQ5DAqbMKFA6SOHvT3gck"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf60ad5f3ea4988eff993d5e1a",
+    "title": "Для дома",
+    "backgroundColor": "#5179A1",
+    "id": "0JQ5DAqbMKFx0uLQR2okcc"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf879a886d22672d9b5b987746",
+    "title": "В дорогу",
+    "backgroundColor": "#0D72ED",
+    "id": "0JQ5DAqbMKFAQy4HL4XU2D"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf5b340bd0664da28003741733",
+    "title": "RADAR",
+    "backgroundColor": "#148A08",
+    "id": "0JQ5DAqbMKFOOxftoKZxod"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caff4e38be86ca48a3b10884ae3",
+    "title": "R&B",
+    "backgroundColor": "#BA5D07",
+    "id": "0JQ5DAqbMKFEZPnFQSFB1T"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf3a44e7ae3d808c220898185c",
+    "title": "Латино",
+    "backgroundColor": "#E1118C",
+    "id": "0JQ5DAqbMKFxXaXKP7zcDp"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf2354ff5d02a9a0935beb94af",
+    "title": "EQUAL",
+    "backgroundColor": "#148A08",
+    "id": "0JQ5DAqbMKFPw634sFwguI"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafb7e805033eb938aa75d09336",
+    "title": "Эпохи",
+    "backgroundColor": "#A56752",
+    "id": "0JQ5DAqbMKFIVNxQgRNSg0"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf21c9a95a2702ce535fb07915",
+    "title": "Любовь",
+    "backgroundColor": "#DC148C",
+    "id": "0JQ5DAqbMKFAUsdyVjCQuL"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafefa737b67ec51ec989f5a51d",
+    "title": "Метал",
+    "backgroundColor": "#E91429",
+    "id": "0JQ5DAqbMKFDkd668ypn6O"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafca4acfcf1f94feff4d080cc9",
+    "title": "Аниме",
+    "backgroundColor": "#E41D63",
+    "id": "0JQ5DAqbMKFziKOShCi009"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafa1bb187ec2f4606aa7101bad",
+    "title": "Джаз",
+    "backgroundColor": "#8D67AB",
+    "id": "0JQ5DAqbMKFAJ5xb0fwo9m"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafd10a5fb6da973e53e9d17ab9",
+    "title": "Кантри",
+    "backgroundColor": "#D84000",
+    "id": "0JQ5DAqbMKFKLfwjuJMoNC"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf4597370d1058e1ec3c1a56fa",
+    "title": "Классика",
+    "backgroundColor": "#7D4B32",
+    "id": "0JQ5DAqbMKFPrEiAOxgac3"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf9a27506d5dde68b9da373196",
+    "title": "Фокус",
+    "backgroundColor": "#A56752",
+    "id": "0JQ5DAqbMKFCbimwdOYlsl"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafd82e2c83fe100a89e9cbb2a2",
+    "title": "Соул",
+    "backgroundColor": "#DC148C",
+    "id": "0JQ5DAqbMKFIpEuaCnimBj"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafe72590f91baff169b1595ab4",
+    "title": "Для всей семьи",
+    "backgroundColor": "#0D73EC",
+    "id": "0JQ5DAqbMKFFoimhOqWzLB"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafb4c4523336133ec3c7fd1744",
+    "title": "Кино и сериалы",
+    "backgroundColor": "#AF2896",
+    "id": "0JQ5DAqbMKFOzQeOmemkuw"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf51565028ee4188dbee2e4aa5",
+    "title": "Netflix",
+    "backgroundColor": "#E13300",
+    "id": "0JQ5DAqbMKFEOEBCABAxo9"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf44774504bdbe31a7bc45598c",
+    "title": "Инструментальная музыка",
+    "backgroundColor": "#537AA1",
+    "id": "0JQ5DAqbMKFRieVZLLoo9m"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf8eebb3e6aa18829dc60f4bc0",
+    "title": "Панк",
+    "backgroundColor": "#E61E32",
+    "id": "0JQ5DAqbMKFAjfauKLOZiv"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf7d7f89ad0744c51c0f895340",
+    "title": "Эмбиент",
+    "backgroundColor": "#148A08",
+    "id": "0JQ5DAqbMKFLjmiZRss79w"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf53eb5d52ae9152ce8461b387",
+    "title": "Блюз",
+    "backgroundColor": "#E61E32",
+    "id": "0JQ5DAqbMKFQiK2EHwyjcU"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafacbcb985978c387411d69e4f",
+    "title": "Ужин",
+    "backgroundColor": "#BA5D07",
+    "id": "0JQ5DAqbMKFRY5ok2pxXJ0"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf106e29a9f294cb4265da6af9",
+    "title": "Альтернатива",
+    "backgroundColor": "#E13300",
+    "id": "0JQ5DAqbMKFFtlLYUHv8bT"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf8ba1febbb4f77336b6f9aace",
+    "title": "Карибская музыка",
+    "backgroundColor": "#0D73EC",
+    "id": "0JQ5DAqbMKFObNLOHydSW8"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf73b2872e5a04da17bee68535",
+    "title": "Афро",
+    "backgroundColor": "#8C1932",
+    "id": "0JQ5DAqbMKFNQ0fGp4byGU"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafb973ab1288f74f333e7e2e22",
+    "title": "Авторы песен",
+    "backgroundColor": "#8C1932",
+    "id": "0JQ5DAqbMKFSCjnQr8QZ3O"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf71ab47ac71efc219fa2cb171",
+    "title": "Шумы и звуки природы",
+    "backgroundColor": "#477D95",
+    "id": "0JQ5DAqbMKFI3pNLtYMD9S"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf3b7919a2cffd1e36647d1c80",
+    "title": "Фанк",
+    "backgroundColor": "#477D94",
+    "id": "0JQ5DAqbMKFFsW9N8maB6z"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf14030380532b34badbf0a229",
+    "title": "Spotify Singles",
+    "backgroundColor": "#777777",
+    "id": "0JQ5DAqbMKFDBgllo2cUIN"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005caf097a46192e6bb67e52cdff60",
+    "title": "Лето",
+    "backgroundColor": "#27856A",
+    "id": "0JQ5DAqbMKFLVaM30PMBm4"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafcc1499bbb8565f490858c2bc",
+    "title": "Fresh Finds",
+    "backgroundColor": "#FF0090",
+    "id": "0JQ5DAqbMKFImHYGo3eTSg"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67fb8200005cafd4a8da930bccd56ebd7e48b0",
+    "title": "Забота о себе",
+    "backgroundColor": "#148A08",
+    "id": "0JQ5DAqbMKFLb2EqgLtpjC"
+  }
+]
